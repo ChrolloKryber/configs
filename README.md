@@ -8,5 +8,4 @@ Plasma widgets used in latte dock are :
 3. plasma5-applet-window-title (https://github.com/psifidotos/applet-window-title)
 4. plasma-applet-caffeine-plus (https://github.com/qunxyz/plasma-applet-caffeine-plus)
 5. System tray (Plasma Default)
-6. Digital Clock
-
+6. Digital Clock (Plasma Default)
